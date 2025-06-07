@@ -67,6 +67,7 @@ With over 6 years of hands-on experience, I’m passionate about turning ideas i
 
 ### 🏆 Achievements & Experience
 
+- 🥇 Awarded "Best Computer Programmer" at Gateway ICT Polytechnic, Saapade, Ogun State by the National Association of Computer Science Students.
 - Led and collaborated on multiple full-stack projects from concept to deployment.
 - Successfully designed and implemented RESTful APIs and scalable web architectures.
 - Developed cross-platform mobile apps and optimized web interfaces for usability.
