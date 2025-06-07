@@ -53,3 +53,30 @@
     you’re in the right place! Let’s build something amazing together.
   </i>
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+With over 6 years of hands-on experience, I’m passionate about turning ideas into powerful and user-friendly digital solutions. My journey has taken me across frontend, backend, mobile, and database development, giving me a holistic view of the software engineering process.
+
+- 🚀 I love building products that make a difference and solve real-world problems.
+- 🧠 I’m a lifelong learner—always exploring new technologies and best practices.
+- 🤝 I value teamwork, open communication, and sharing knowledge with others.
+- 🌐 I enjoy contributing to open source and supporting the developer community.
+
+### 🏆 Achievements & Experience
+
+- Led and collaborated on multiple full-stack projects from concept to deployment.
+- Successfully designed and implemented RESTful APIs and scalable web architectures.
+- Developed cross-platform mobile apps and optimized web interfaces for usability.
+- Proficient with tools like Git, GitHub, Netlify, and a versatile set of programming languages and frameworks.
+
+### 🌱 What’s Next?
+
+I’m always eager to tackle new challenges, whether it’s mastering the latest frontend framework, enhancing backend performance, or exploring emerging fields like AI and cloud computing.
+
+---
+
+> 💬 **Let’s connect and create something amazing together!**  
+> Feel free to explore my repositories, reach out for collaborations, or just say hi!
